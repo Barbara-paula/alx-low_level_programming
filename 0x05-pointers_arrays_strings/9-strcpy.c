@@ -1,4 +1,4 @@
-#include "nain.h"
+#include "main.h"
 
 /**
  * char *_strcpy - a function
